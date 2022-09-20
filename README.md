@@ -12,11 +12,11 @@
 
 
 
-**Object oriented programming java practice problems** : (Must see 👍)
+**JAVA Object oriented programming  practice problems** : (Must see 👍)
 
--  [Object oriented programming java practice problems](https://www.hackerrank.com/domains/java/oop/difficulty:true/page:NaN)
--  [Object oriented programming java practice problems](https://www.studocu.com/row/document/comsats-university-islamabad/object-oriented-programming/oop-exercises-practice-problems-of-object-oriented-programming-in-java/13486070)
--  [Object oriented programming java practice problems](https://runestone.academy/ns/books/published/apcsareview/OOBasics/Exercises.html)
+-  [Java Object oriented programming  practice problems](https://www.hackerrank.com/domains/java/oop/difficulty:true/page:NaN)
+-  [JavaObject oriented programming  practice problems](https://www.studocu.com/row/document/comsats-university-islamabad/object-oriented-programming/oop-exercises-practice-problems-of-object-oriented-programming-in-java/13486070)
+-  [Java Object oriented programming  practice problems](https://runestone.academy/ns/books/published/apcsareview/OOBasics/Exercises.html)
 
 
 **File-Handling programming java practice problems** : (Must see 👍)
