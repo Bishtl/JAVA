@@ -29,6 +29,17 @@ Java is a statically typed language, whereas Ruby, Python, and JavaScript are dy
 
 I tend to prefer statically typed languages. I think it’s good for somebody to learn a statically typed language first, because there is an extra layer of code that you need to think about, and it makes variables more explicit. In my experience,**it’s easier for people who have learned a statically-typed language first to then learn a dynamically-typed language, than it is the other way around.**
 
+### How Can I Get Started Learning Java?
+
+1.**Dabble in another language.** If you like coding or programming, you will likely enjoy programming in any language. My advice for people who haven’t had exposure to coding at all is to go out and try coding in any language. Try JavaScript to see if you like programming, then look to see what jobs are available, and that will lead you to Java or C#.
+
+2.**Read books and use online resources.** If you want to try out Java, there are plenty of free and online resources. One free book we use in our classes is Intro to Programming Using Java, written by Dr. David Eck, a CS professor at Hobart and William Smith Colleges. The first edition was in 1996, and it’s up to version 7.0 now. It’s a really great resource and I definitely recommend it.
+
+
+3.**Go to a Java Meetup.** Java has been around so long, and there are probably Java user groups in just about every city. In Cleveland, Tech Elevator hosts and organizes meetups through the Java User Group, which is always a great resource to meet people.
+If I were giving advice to someone contemplating getting into programming, I wouldn’t get too hung up on the language if you’re just dabbling. Just choose a language and go with it. Once you become more serious about programming, the language will become more important.
+
+
 **Java Basics practice questions** : (Must see 👍)
 - [Java Basics practice questions-1](https://www.interviewbit.com/java-interview-questions/))
 -  [Java Basics practice questions-1](https://www.codesdope.com/practice/practice_java/)
